@@ -196,6 +196,12 @@ http://localhost:5173
 
 ---
 
+## 🔗 GitHub Repository
+
+Repository: https://github.com/Rajashekhar-Kakhandaki/Sales-Forecasting-using-Time-Series
+
+---
+
 ## 📦 Required Python Packages
 
 - fastapi
@@ -266,3 +272,9 @@ Dayananda Sagar Academy of Technology and Management (DSATM)
 ## 📄 License
 
 This project was developed for academic and educational purposes.
+
+# ⭐ Conclusion
+
+This project successfully demonstrates an end-to-end Sales Forecasting system using Time Series Analysis. Historical Walmart sales data was analyzed, cleaned, and modeled using ARIMA, SARIMA, and Facebook Prophet. Among these models, Prophet achieved the best forecasting performance with the lowest prediction error.
+
+The project integrates Machine Learning, FastAPI, React, Tailwind CSS, Material UI, and Recharts to deliver a professional dashboard capable of forecasting future sales, visualizing business insights, and supporting better decision-making.
